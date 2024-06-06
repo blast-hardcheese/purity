@@ -70,6 +70,7 @@ builtins = set(x.strip() for x in '''
   login
   logout
   ls-F
+  mapfile
   nice
   nohup
   notify
